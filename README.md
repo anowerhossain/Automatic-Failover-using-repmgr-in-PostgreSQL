@@ -169,5 +169,4 @@ By following these steps, you’ve configured **automatic failover** with **repm
 
 ---
 
-For any questions or issues, feel free to reach out anowerhossain97@gmail.com 👨‍💻
 
